@@ -9,11 +9,11 @@ redirect_from:
 
 ## About Me
 
-I am a Lecturer (Assistant Professor) at the Department of Computer Science and Information Technology, La Trobe University. Before that, I was a Machine Learning Research Fellow at the Australian Institute for Machine Learning, The University of Adelaide.
+I am a continuing Lecturer (Assistant Professor) at the Department of Computer Science and Information Technology, La Trobe University. Before that, I was a Machine Learning Research Fellow at the Australian Institute for Machine Learning, The University of Adelaide.
 
 My research interests lie broadly in the field of computer vision and deep learning. My current research focuses on medical image learning in orthopaedics and ophthalmology, image-based and video-based object retrieval, ultra-fine-grained image classification, pose estimation, landmark detection, and generative 3D modelling. Emergent themes of my interest are AI for agriculture and AI for health, primarily in hyperspectral imaging applications and AI for digital and computational pathology.
 
-I am open to interdisciplinary collaboration and eligible to supervise Honors, Masters, and Doctoral students.
+I am open to interdisciplinary collaboration and eligible to supervise Honors, Master's, and Doctoral students.
 
 ## Recent News
 
