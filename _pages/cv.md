@@ -23,8 +23,7 @@ redirect_from:
 
 ## Professional Activities
 
-- Journal Reviewer: IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- Conference Reviewer: Co-organizer of AIiH 2024 Special Session, PC member of CASA 2024, CVPR 2024, MICCAI 2023, ECCV 2022, CVPR 2022, AAAI 2022, ICCV 2021, CVPR 2021, IJCAI 2021, ICONIP 2020.
+See the [Professional Activities page](/professional-activities/) for service and reviewing activities.
 
 ## Publications
 

@@ -25,6 +25,10 @@ I am open to interdisciplinary collaboration and eligible to supervise Honors, M
 - [June 2025] One paper "Advancing federated domain generalization in ophthalmology: Vision enhancement and consistency assurance for multicenter fundus image segmentation" has been accepted to Pattern Recognition.
 - [June 2025] One paper "CIT: Rethinking class-incremental semantic segmentation with a Class Independent Transformation" has been accepted to Pattern Recognition.
 - [March 2025] One paper "MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule" has been accepted to ICME 2025.
+
+<details markdown="1">
+<summary>Older news</summary>
+
 - [Dec. 2024] Received SCEMS Early Career Researcher Award 2024 at La Trobe University.
 - [Nov. 2024] Received Australian Pattern Recognition Society (APRS) Early Career Researcher Award 2024 at DICTA 2024.
 - [Nov. 2024] Invited talk "Landmark Detection and Medical Applications" at DICTA 2024.
@@ -55,12 +59,4 @@ I am open to interdisciplinary collaboration and eligible to supervise Honors, M
 - [Mar. 2018] I went to The University of Adelaide.
 - [Feb. 2018] I went to Griffith University.
 
-## Professional Activities
-
-- Journal Reviewer: IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- Conference Reviewer: Co-organizer of AIiH 2024 Special Session, PC member of CASA 2024, CVPR 2024, MICCAI 2023, ECCV 2022, CVPR 2022, AAAI 2022, ICCV 2021, CVPR 2021, IJCAI 2021, ICONIP 2020.
-
-## Contact
-
-- Email: [y.zhao2@latrobe.edu.au](mailto:y.zhao2@latrobe.edu.au)
-- Address: Office 319, PS2 Building, La Trobe University, Bundoora VIC 3083, Australia.
+</details>

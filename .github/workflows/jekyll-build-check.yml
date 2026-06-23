@@ -3,9 +3,6 @@ name: Jekyll build check
 on:
   pull_request:
   push:
-    branches:
-      - academic
-      - academic-content-migration
 
 jobs:
   build:
