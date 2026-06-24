@@ -1,0 +1,10 @@
+{% include base_path %}
+
+<li class="publication-list__item">
+  <span class="publication-list__number">{{ include.number }}.</span>
+  <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+  <br />
+  <span class="publication-list__venue">
+    Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  </span>
+</li>

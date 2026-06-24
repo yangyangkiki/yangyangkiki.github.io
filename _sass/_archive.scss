@@ -27,6 +27,23 @@
   }
 }
 
+.publication-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.publication-list__item {
+  margin-bottom: 1em;
+}
+
+.publication-list__number {
+  font-weight: bold;
+}
+
+.publication-list__venue {
+  color: $muted-text-color;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;

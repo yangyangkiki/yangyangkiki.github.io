@@ -1,9 +1,16 @@
 ---
 layout: single
-title: "Professional Activities"
-permalink: /professional-activities/
+title: "Talks"
+permalink: /talks/
 author_profile: true
+redirect_from:
+  - /professional-activities/
 ---
+
+## Awards and Grants
+
+- Top Publication Incentive Award, Griffith University, 2020/2021/2022.
+- SCEMS CaRE and Beyond Scheme Grant, La Trobe University, 2024.
 
 ## Journal Reviewer
 
