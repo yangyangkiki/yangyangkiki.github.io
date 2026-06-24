@@ -41,7 +41,7 @@
 }
 
 .publication-list__venue {
-  color: $muted-text-color;
+  color: mix(#fff, $gray, 25%);
 }
 
 .archive__subtitle {
