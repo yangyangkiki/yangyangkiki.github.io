@@ -22,8 +22,8 @@ repository               : "yangyangkiki/yangyangkiki.github.io"
 author:
   # Biographic information
   avatar           : "profile_Yang.png"
-  name             : "Yang Zhao"
-  pronouns         : # example: "she/her"  
+  name             : "Dr. Yang Zhao"
+  pronouns         : "she/her"  
   bio              : "Lecturer (Assistant Professor), La Trobe University"
   location         : "Bundoora VIC, Australia"
   employer         : "La Trobe University"
