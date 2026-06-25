@@ -13,4 +13,4 @@ citation: "Sun Ke*, Yang Zhao*, Borui Jiang*, Tianheng Cheng*, Bin Xiao, Dong Li
 
 Links: [Code](https://github.com/HRNet/HRNet-Facial-Landmark-Detection)
 
-Sun Ke*, Yang Zhao*, Borui Jiang*, Tianheng Cheng*, Bin Xiao, Dong Liu, Yadong Mu, Xinggang Wang, Wenyu Liu, and Jingdong Wang. High-resolution representations for labeling pixels and regions. ArXiv Preprint, 2019.
+
