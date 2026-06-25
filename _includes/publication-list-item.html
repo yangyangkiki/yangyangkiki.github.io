@@ -1,8 +1,17 @@
 {% include base_path %}
+{% assign title_url = post.paperurl | default: post.url %}
 
 <li class="publication-list__item">
   <span class="publication-list__number">{{ include.number }}.</span>
-  <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+  {% if post.paperurl %}
+    <a href="{{ title_url }}">{{ post.title }}</a>
+  {% else %}
+    <a href="{{ base_path }}{{ title_url }}">{{ post.title }}</a>
+  {% endif %}
+  {% if post.demourl %}, <a href="{{ post.demourl }}">Demo</a>{% endif %}
+  {% if post.codeurl %}, <a href="{{ post.codeurl }}">Code</a>{% endif %}
+  {% if post.dataseturl %}, <a href="{{ post.dataseturl }}">Dataset</a>{% endif %}
+  {% if post.projecturl %}, <a href="{{ post.projecturl }}">Project</a>{% endif %}
   <br />
   <span class="publication-list__venue">
     Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
