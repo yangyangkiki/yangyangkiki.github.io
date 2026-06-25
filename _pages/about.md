@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Yang Zhao"
+title: "Yang Zhao"
 author_profile: true
 redirect_from:
   - /about/
