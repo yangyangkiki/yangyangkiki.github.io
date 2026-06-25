@@ -9,12 +9,11 @@ redirect_from:
 
 ## Education
 
-- PhD in Artificial Intelligence, Griffith University, 02.2018-01.2022.
-- Visiting PhD student, The University of Adelaide, 03.2018-01.2022.
+- PhD in Artificial Intelligence, Griffith University (Jointly with The University of Adelaide), Australia, 2018-2022.
 
 ## Work Experience
 
-- Continuing Lecturer (Assistant Professor), La Trobe University, 08.2023-Now.
-- Research Fellow, Australian Institute for Machine Learning (AIML), The University of Adelaide, 09.2021-08.2023.
+- Continuing Lecturer (Assistant Professor), La Trobe University, Australia, 08.2023-Now.
+- Research Fellow, Australian Institute for Machine Learning (AIML), The University of Adelaide, Australia, 09.2021-08.2023.
 
 
