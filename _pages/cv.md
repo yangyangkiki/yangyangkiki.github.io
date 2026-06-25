@@ -17,10 +17,4 @@ redirect_from:
 - Continuing Lecturer (Assistant Professor), La Trobe University, 08.2023-Now.
 - Research Fellow, Australian Institute for Machine Learning (AIML), The University of Adelaide, 09.2021-08.2023.
 
-## Publications
 
-See the [Publications page](/publications/) for selected publications.
-
-## Talks
-
-See the [Talks page](/talks/) for awards, grants, service, and reviewing activities.
