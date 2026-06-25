@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Zhao"
+title: "Dr. Yang Zhao"
 author_profile: true
 redirect_from:
   - /about/
@@ -57,11 +57,11 @@ I am open to interdisciplinary collaboration and eligible to supervise Honors, M
 - [Nov. 2019] One paper "Patchy Image Structure Classification Using Multi-Orientation Region Transform" accepted in AAAI 2020.
 - [Apr. 2019] One paper "High-resolution representations for labeling pixels and regions" published in arXiv.
 - [Mar. 2018] I went to The University of Adelaide.
-- [Feb. 2018] I went to Griffith University.
+- [Feb. 2018] I enrolled in Griffith University.
 
 </details>
 
 ## Contact
 
 - Email: [y.zhao2@latrobe.edu.au](mailto:y.zhao2@latrobe.edu.au)
-- Address: Office 319, PS2 Building, La Trobe University, Bundoora VIC 3083, Australia.
+- Address: La Trobe University, PS2 319, Department of Computer Science and Information Technology, Melbourne, VIC, 3086, Australia
