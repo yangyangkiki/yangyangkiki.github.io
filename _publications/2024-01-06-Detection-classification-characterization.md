@@ -5,11 +5,6 @@ category: manuscripts
 date: 2024-01-06
 venue: "The bone & joint journal"
 paperurl: "https://boneandjoint.org.uk/article/10.1302/0301-620X.106B11.BJJ-2024-0264.R1"
-demourl: "https://example.com/replace-with-demo-link"
-codeurl: "https://example.com/replace-with-code-link"
-dataseturl: "https://example.com/replace-with-dataset-link"
-projecturl: "https://example.com/replace-with-project-link"
-citation: "REPLACE: Full citation."
 ---
 
 <!--
