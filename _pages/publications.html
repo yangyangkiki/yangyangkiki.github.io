@@ -11,24 +11,50 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign visible_limit = 10 %}
+{% assign journal_papers = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
+{% assign journal_count = journal_papers | size %}
+{% assign conference_papers = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
+{% assign conference_count = conference_papers | size %}
+
 <h2>Journal Articles</h2>
 <ul class="publication-list">
-{% assign paper_number = site.publications | size %}
-{% for post in site.publications reversed %}
-  {% if post.category == "manuscripts" %}
-    {% include publication-list-item.html number=paper_number %}
-  {% endif %}
-  {% assign paper_number = paper_number | minus: 1 %}
+{% for post in journal_papers limit: visible_limit %}
+  {% assign paper_number = journal_count | minus: forloop.index0 %}
+  {% include publication-list-item.html number=paper_number %}
 {% endfor %}
 </ul>
 
+{% if journal_count > visible_limit %}
+{% assign older_journal_count = journal_count | minus: visible_limit %}
+<details class="publication-list__fold">
+  <summary>Show {{ older_journal_count }} older journal articles</summary>
+  <ul class="publication-list">
+  {% for post in journal_papers offset: visible_limit %}
+    {% assign paper_number = journal_count | minus: visible_limit | minus: forloop.index0 %}
+    {% include publication-list-item.html number=paper_number %}
+  {% endfor %}
+  </ul>
+</details>
+{% endif %}
+
 <h2>Conference Papers</h2>
 <ul class="publication-list">
-{% assign paper_number = site.publications | size %}
-{% for post in site.publications reversed %}
-  {% if post.category == "conferences" %}
-    {% include publication-list-item.html number=paper_number %}
-  {% endif %}
-  {% assign paper_number = paper_number | minus: 1 %}
+{% for post in conference_papers limit: visible_limit %}
+  {% assign paper_number = conference_count | minus: forloop.index0 %}
+  {% include publication-list-item.html number=paper_number %}
 {% endfor %}
 </ul>
+
+{% if conference_count > visible_limit %}
+{% assign older_conference_count = conference_count | minus: visible_limit %}
+<details class="publication-list__fold">
+  <summary>Show {{ older_conference_count }} older conference papers</summary>
+  <ul class="publication-list">
+  {% for post in conference_papers offset: visible_limit %}
+    {% assign paper_number = conference_count | minus: visible_limit | minus: forloop.index0 %}
+    {% include publication-list-item.html number=paper_number %}
+  {% endfor %}
+  </ul>
+</details>
+{% endif %}
