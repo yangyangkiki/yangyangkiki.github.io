@@ -5,6 +5,7 @@ category: manuscripts
 date: 2026-01-04
 venue: "Sustainable Energy, Grids and Networks"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S2352467726001840"
+published: false
 ---
 
 <!--
