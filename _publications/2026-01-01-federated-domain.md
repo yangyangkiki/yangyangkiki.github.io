@@ -3,7 +3,7 @@ title: "Advancing federated domain generalization in ophthalmology: vision enhan
 collection: publications
 category: manuscripts
 date: 2026-01-01
-venue: "Pattern Recognition"
+venue: "Pattern Recognition (PR)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0031320325006533"
 ---
 
