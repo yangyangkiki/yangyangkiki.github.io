@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my full list of articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -17,7 +17,7 @@ author_profile: true
 {% assign conference_papers = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
 {% assign conference_count = conference_papers | size %}
 
-<h2>Journal Articles</h2>
+<h2>Selected Journal Articles</h2>
 <ul class="publication-list">
 {% for post in journal_papers limit: visible_limit %}
   {% assign paper_number = journal_count | minus: forloop.index0 %}
@@ -38,7 +38,7 @@ author_profile: true
 </details>
 {% endif %}
 
-<h2>Conference Papers</h2>
+<h2>Selected Conference Papers</h2>
 <ul class="publication-list">
 {% for post in conference_papers limit: visible_limit %}
   {% assign paper_number = conference_count | minus: forloop.index0 %}
