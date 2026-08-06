@@ -5,6 +5,7 @@ category: manuscripts
 date: 2025-01-11
 venue: " European Journal of Trauma and Emergency Surgery"
 paperurl: "https://link.springer.com/article/10.1007/s00068-025-02931-6"
+published: false
 ---
 
 <!--
