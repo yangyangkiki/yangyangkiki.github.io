@@ -3,7 +3,7 @@ title: "Presentagent: Multimodal agent for presentation video generation"
 collection: publications
 category: conferences
 date: 2025-01-09
-venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing"
+venue: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 paperurl: "https://aclanthology.org/2025.emnlp-demos.58/"
 ---
 
