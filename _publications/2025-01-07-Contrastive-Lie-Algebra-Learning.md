@@ -3,7 +3,7 @@ title: "Contrastive Lie Algebra Learning for Ultra-Fine-Grained Visual Categoriz
 collection: publications
 category: conferences
 date: 2025-01-07
-venue: "Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025)"
+venue: "Proceedings of the 33rd ACM International Conference on Multimedia (MM)"
 paperurl: "https://dl.acm.org/doi/abs/10.1145/3746027.3755024"
 ---
 
