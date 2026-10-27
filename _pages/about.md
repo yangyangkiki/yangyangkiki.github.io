@@ -18,7 +18,7 @@ I am always open to interdisciplinary collaboration and currently supervise Hono
 
 ## Recent News
 
-- [Aug 2026] I'm honoured to share that I've been selected as a finalist for the Data Science / AI Pioneer Award at the 2026 Women of Colour in STEM Awards.
+- [Oct 2026] I'm honoured to share that I've been selected as a finalist for the Data Science / AI Pioneer Award at the 2026 Women of Colour in STEM Awards.
 - [Jan 2026] One paper "VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery" has been accepted to ICLR 2026.
 - [Jan 2026] One paper "VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery" has been accepted to EACL 2026.
 - [July 2025] One paper "PresentAgent: Multimodal Agent for Presentation Video Generation" has been accepted to EMNLP 2025.
