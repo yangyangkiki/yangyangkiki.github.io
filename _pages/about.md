@@ -9,9 +9,12 @@ redirect_from:
 
 ## About Me
 
-I am a Continuing Lecturer (Assistant Professor) in the Department of Computer Science and Information Technology at La Trobe University. Before joining La Trobe, I was a Machine Learning Research Fellow at the Australian Institute for Machine Learning, The University of Adelaide.
+I am a passionate Applied AI & Computer Vision & Multimodal Learning Research Scientist with over 9 years of research and development experience. I have a proven track record for solving challenging real-world computer vision and AI tasks. I have worked with many domain experts to understand their real-world problems and develop the most appropriate solutions. My research lies broadly in computer vision and AI, with a particular focus on developing vision-language models, multimodal learning methods, and foundation model techniques that can be applied to real-world challenges across disciplines. My current interests include AI for sustainable agriculture, AI for health, and AI for cultural heritage and digital humanities. 
 
-My research lies broadly in computer vision and deep learning, with a particular focus on developing vision-language models, multimodal learning methods, and foundation model techniques that can be applied to real-world challenges across disciplines. My current interests include AI for sustainable agriculture, AI for health, and interdisciplinary applications of AI in areas such as cultural heritage.
+---
+I am a Continuing Lecturer (Assistant Professor) in the Department of Computer Science and Information Technology at La Trobe University. Before joining La Trobe, I was a Machine Learning Research Fellow at the Australian Institute for Machine Learning, The University of Adelaide. 
+I specialize in vision-language models, lightweight deep learning architectures, and scalable biometric retrieval. 
+---
 
 I am always open to interdisciplinary collaboration and currently supervise Honours, Master's, and Doctoral students.
 
@@ -65,5 +68,5 @@ I am always open to interdisciplinary collaboration and currently supervise Hono
 
 ## Contact
 
-- Email: [y.zhao2@latrobe.edu.au](mailto:y.zhao2@latrobe.edu.au)
-- Address: La Trobe University, PS2 319, Department of Computer Science and Information Technology, Melbourne, VIC, 3086, Australia
+- Email: [yangzhao.au@outlook.com](mailto:yangzhao.au@outlook.com)
+- Address: Melbourne, VIC, Australia
