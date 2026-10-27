@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yang Zhao"
 title_separator          : "-"
-name                     : &name "Yang Zhao"
+name                     : &name "Dr Yang Zhao"
 description              : &description "Computer vision and machine learning researcher"
 url                      : https://yangyangkiki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "yangyangkiki/yangyangkiki.github.io"
 author:
   # Biographic information
   avatar           : "profile_Yang.png"
-  name             : "Dr. Yang Zhao"
+  name             : "Dr Yang Zhao"
   pronouns         : "she/her"  
-  bio              : "Lecturer (Assistant Professor), La Trobe University"
-  location         : "Bundoora VIC, Australia"
-  employer         : "La Trobe University"
-  uri              : "https://scholars.latrobe.edu.au/y4zhao"
-  email            : "y.zhao2@latrobe.edu.au" 
+  bio              : "Computer Vision and AI Research Scientist "
+  location         : "Melbourne, Australia"
+   # employer         : "La Trobe University"
+  # uri              : "https://scholars.latrobe.edu.au/y4zhao"
+  email            : "yangzhao.au@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
