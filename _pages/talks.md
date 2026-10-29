@@ -9,27 +9,22 @@ redirect_from:
 
 ## Awards and Grants
 
-- Top Publication Incentive Award, Griffith University, 2020/2021/2022.
-- SCEMS CaRE and Beyond Scheme Grant, La Trobe University, 2024.
+- Finalist, Data Science / AI Pioneer Award, Women of Colour in STEM Awards 2026, Australia, 2026
+- APRS Early Career Researcher Award 2024, Australian Pattern Recognition Society (APRS), 2024
+- SCEMS Early Career Researcher Award 2024, La Trobe University, 2024
+- Top-tier Publication Incentive Award, Griffith University, 2020-2023
+
+-  Research Start-up Funding, CI, $30k, La Trobe University, 2024-2026
+-  LIMS-SCEMS Kick Starter Funding Scheme, 2nd CI, $30k, La Trobe University, 2026
+-  SCEMS CaRE and Beyond Scheme Grant, CI, $5k, La Trobe University, 2024-2025
 
 ## Journal Reviewer
 
-- IEEE Transactions on Multimedia (TMM)
-- Pattern Recognition (PR)
-- IEEE Journal of Biomedical and Health Informatics (J-BHI)
-- IEEE Transactions on Artificial Intelligence (TAI)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 ## Conference Service and Reviewing
 
 - Co-organizer of AIiH 2024 Special Session
 - PC member of CASA 2024
-- Reviewer for CVPR 2024
-- Reviewer for MICCAI 2023
-- Reviewer for ECCV 2022
-- Reviewer for CVPR 2022
-- Reviewer for AAAI 2022
-- Reviewer for ICCV 2021
-- Reviewer for CVPR 2021
-- Reviewer for IJCAI 2021
-- Reviewer for ICONIP 2020
+- AC for DICTA 2026
+- Reviewer for NeurIPS, ICLR, CVPR, ECCV, ICCV, MICCAI, IJCAI, AAAI
