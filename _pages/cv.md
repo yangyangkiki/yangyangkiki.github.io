@@ -13,7 +13,7 @@ redirect_from:
 
 ## Work Experience
 
-- Continuing Lecturer (Assistant Professor), La Trobe University, Australia, 08.2023-Now.
+- Lecturer (Assistant Professor), La Trobe University, Australia, 08.2023-10.2026.
 - Research Fellow, Australian Institute for Machine Learning (AIML), The University of Adelaide, Australia, 09.2021-08.2023.
 
 
