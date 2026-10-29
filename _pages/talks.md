@@ -18,6 +18,12 @@ redirect_from:
 -  LIMS-SCEMS Kick Starter Funding Scheme, 2nd CI, $30k, La Trobe University, 2026
 -  SCEMS CaRE and Beyond Scheme Grant, CI, $5k, La Trobe University, 2024-2025
 
+## Invited talks and seminars
+
+- Deep Learning for Object Retrieval and Landmark Detection, the University of Melbourne (Nov, 2022)
+- Deep Learning for Landmark Detection, La Trobe University (May, 2023)
+- Deep Learning for Landmark Detection, Australian Pattern Recognition Society (APRS) & DICTA (Nov, 2024)
+
 ## Journal Reviewer
 
 - IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
@@ -27,4 +33,4 @@ redirect_from:
 - Co-organizer of AIiH 2024 Special Session
 - PC member of CASA 2024
 - AC for DICTA 2026
-- Reviewer for NeurIPS, ICLR, CVPR, ECCV, ICCV, MICCAI, IJCAI, AAAI
+- Reviewer for NeurIPS, ICLR, CVPR, ECCV, ICCV, MICCAI, IJCAI, AAAI, etc
