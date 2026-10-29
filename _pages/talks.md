@@ -15,7 +15,7 @@ redirect_from:
 - Top-tier Publication Incentive Award, Griffith University, 2020-2023
 
 -  Research Start-up Funding, CI, $30k, La Trobe University, 2024-2026
--  LIMS-SCEMS Kick Starter Funding Scheme, 2nd CI, $30k, La Trobe University, 2026
+-  LIMS-SCEMS Kick Starter Funding Scheme, co-CI, $30k, La Trobe University, 2026
 -  SCEMS CaRE and Beyond Scheme Grant, CI, $5k, La Trobe University, 2024-2025
 
 ## Invited talks and seminars
@@ -26,7 +26,7 @@ redirect_from:
 
 ## Journal Reviewer
 
-- IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Multimedia (TMM), Pattern Recognition (PR), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Artificial Intelligence (TAI), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), etc
 
 ## Conference Service and Reviewing
 
